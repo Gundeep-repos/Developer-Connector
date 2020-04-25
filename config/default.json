@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://root:root@devconnector-cmybo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "88f2d5e18f9836b31317",
+  "githubClientSecret": "2ff5910458dc01c58cb596fffa1a430e1401de31"
+}
